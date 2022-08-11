@@ -11,4 +11,4 @@ pip install -r requirements.txt
 
 cd CARL-HACKERS
 
-python3 CARL-HACKERS.py
+python3 carl-hackers.py
